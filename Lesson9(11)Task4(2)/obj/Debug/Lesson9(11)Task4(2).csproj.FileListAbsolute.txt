@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Lesson9(11)Task4(2)\Lesson9(11)Task4(2)\bin\Debug\Lesson9(11)Task4(2).dll
+C:\Users\Admin\source\repos\Lesson9(11)Task4(2)\Lesson9(11)Task4(2)\bin\Debug\Lesson9(11)Task4(2).pdb
+C:\Users\Admin\source\repos\Lesson9(11)Task4(2)\Lesson9(11)Task4(2)\obj\Debug\Lesson9(11)Task4(2).csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lesson9(11)Task4(2)\Lesson9(11)Task4(2)\obj\Debug\Lesson9(11)Task4(2).dll
+C:\Users\Admin\source\repos\Lesson9(11)Task4(2)\Lesson9(11)Task4(2)\obj\Debug\Lesson9(11)Task4(2).pdb
